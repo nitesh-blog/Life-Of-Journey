@@ -6,7 +6,7 @@ This folder contains web pages created using MERN Stack. This folder contains a 
 3.ReactJS
 4.NodeJs
 
-for creating this web site as tour app.
+for creating this web site as tour app. Its Fully Responsive.
 
 Project Explanation Video :
 https://vimeo.com/772835435/6621965057
