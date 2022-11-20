@@ -8,6 +8,17 @@ This folder contains web pages created using MERN Stack. This folder contains a 
 
 for creating this web site as tour app. Its Fully Responsive.
 
+Problem Statement:
+
+The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.
+
+destination-based comprehensive investigations into tourist behaviour need to be further conducted.
+
+which will help to come to an overall understanding of tourist behaviour in relation to development of tourism resources.
+
+Checking on which destination is more popular how’s is rating for this .
+
+
 Project Explanation Video :
 https://vimeo.com/772835435/6621965057
 
