@@ -20,7 +20,6 @@
 
 -- It's fully responsive, you can easily access it on mobile.
   
-  
 <h3>Technologies Use :</h3>
 
 1.Mongo DB
@@ -44,7 +43,6 @@ for creating this web site as tour app. Its Fully Responsive.
 - Get Tour By Tag
 - Pagination
 - Comment On Tour
-
 
 <b>- <h3>Project Explanation Video :</h3></b>
 https://vimeo.com/772835435/6621965057
