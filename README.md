@@ -10,6 +10,19 @@
 
   <em> Checking on which destination is more popular how’s is rating for this . </em>
   
+  -- Due to this project, many things became easy because people can easily find where to visit the tourist place.
+
+-- No need to search on google they come directly to my website and check here where to go.
+
+-- You can come here and see which place is famous and get complete information.
+
+-- You can see the rating of this place, how many people have seen it.
+
+-- It's fully responsive, you can easily access it on mobile.
+  
+![image](https://user-images.githubusercontent.com/64421386/203003270-e7e3b8a3-6fe5-47a6-9677-afa277a4d4c4.png)
+
+  
   <h3>Technologies Use :</h3>
 
 1.Mongo DB
