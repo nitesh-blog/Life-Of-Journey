@@ -1,15 +1,4 @@
 ﻿# Life-Of-Journey
-This folder contains web pages created using MERN Stack. This folder contains a Life OF Journey. I have used:
-
-1.Mongo DB
-
-2.ExpressJD
-
-3.ReactJS
-
-4.NodeJs
-
-for creating this web site as tour app. Its Fully Responsive.
 
 - <b><h3>Problem Statement:<h3></b>
 
@@ -20,6 +9,18 @@ destination-based comprehensive investigations into tourist behaviour need to be
 which will help to come to an overall understanding of tourist behaviour in relation to development of tourism resources.
 
 Checking on which destination is more popular how’s is rating for this .
+  
+  <h3>Technologies Use :</h3>
+
+1.Mongo DB
+
+2.ExpressJD
+
+3.ReactJS
+
+4.NodeJs
+
+for creating this web site as tour app. Its Fully Responsive.
 
 <h3>Features Use :</h3>
 
