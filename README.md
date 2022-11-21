@@ -2,7 +2,7 @@
 
 - <b><h3>Problem Statement:<h3></b>
 
-The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.
+* The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.
 
 destination-based comprehensive investigations into tourist behaviour need to be further conducted.
 
@@ -14,7 +14,7 @@ Checking on which destination is more popular how’s is rating for this .
 
 1.Mongo DB
 
-2.ExpressJD
+2.ExpressJS
 
 3.ReactJS
 
