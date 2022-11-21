@@ -11,7 +11,7 @@ This folder contains web pages created using MERN Stack. This folder contains a 
 
 for creating this web site as tour app. Its Fully Responsive.
 
-- <b>Problem Statement:</b>
+- <b><h3>Problem Statement:<h3></b>
 
 The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.
 
@@ -23,15 +23,15 @@ Checking on which destination is more popular how’s is rating for this .
 
 <h3>Features Use :</h3>
 
--Sign In , Sign Up and Sign Out
--Add Tour,Update Tour and Delete Tour
--Show List Of Tour
--Show Single Tour
--Search Bar
--Like
--Get Tour By Tag
--Pagination
--Comment On Tour
+- Sign In , Sign Up and Sign Out
+- Add Tour,Update Tour and Delete Tour
+- Show List Of Tour
+- Show Single Tour
+- Search Bar
+- Like
+- Get Tour By Tag
+- Pagination
+- Comment On Tour
 
 
 <b>- <h3>Project Explanation Video :</h3></b>
