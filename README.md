@@ -21,11 +21,23 @@ which will help to come to an overall understanding of tourist behaviour in rela
 
 Checking on which destination is more popular how’s is rating for this .
 
+<h3>Features Use :</h3>
 
-Project Explanation Video :
+-Sign In , Sign Up and Sign Out
+-Add Tour,Update Tour and Delete Tour
+-Show List Of Tour
+-Show Single Tour
+-Search Bar
+-Like
+-Get Tour By Tag
+-Pagination
+-Comment On Tour
+
+
+<b>- <h3>Project Explanation Video :</h3></b>
 https://vimeo.com/772835435/6621965057
 
-Project Snips : 
+<b>- <h3>Project Snips :</h3> </b>
 
 User Login :
 
