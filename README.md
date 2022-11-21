@@ -2,13 +2,13 @@
 
 - <b><h3>Problem Statement:<h3></b>
 
-<t> The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.</t>
+<em> The purpose of websites is fact that internet users are increasing today.Today One of the main purposes of the website is for a user can directly come on my website visit the tour places, And plan where want to go to which destination.</em>
 
-<t> destination-based comprehensive investigations into tourist behaviour need to be further conducted. </t>
+<em> destination-based comprehensive investigations into tourist behaviour need to be further conducted. </em>
 
-<t> which will help to come to an overall understanding of tourist behaviour in relation to development of tourism resources. </t>
+<em> which will help to come to an overall understanding of tourist behaviour in relation to development of tourism resources. </em>
 
-  <t> Checking on which destination is more popular how’s is rating for this . </t>
+  <em> Checking on which destination is more popular how’s is rating for this . </em>
   
   <h3>Technologies Use :</h3>
 
