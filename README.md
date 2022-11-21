@@ -20,10 +20,8 @@
 
 -- It's fully responsive, you can easily access it on mobile.
   
-![image](https://user-images.githubusercontent.com/64421386/203003270-e7e3b8a3-6fe5-47a6-9677-afa277a4d4c4.png)
-
   
-  <h3>Technologies Use :</h3>
+<h3>Technologies Use :</h3>
 
 1.Mongo DB
 
