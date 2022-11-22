@@ -34,6 +34,7 @@ for creating this web site as tour app. Its Fully Responsive.
 
 <h3>Features Use :</h3>
 
+- Navbar
 - Sign In , Sign Up and Sign Out
 - Add Tour,Update Tour and Delete Tour
 - Show List Of Tour
